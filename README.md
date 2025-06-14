@@ -25,17 +25,18 @@ Team player with excellent communication, adaptability, and a strong work ethic.
 
 ## 📫 Contact Me
 
-<a href="mailto:lidar210599@gmail.com">
-  <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
-</a>
+<p align="center">
+  <a href="mailto:lidar210599@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/lidarbd">
+    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/lidar-ben-dor-199575236/">
+    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+  </a>
+</p>
 
-<a href="https://github.com/lidar-ben-dor">
-  <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
-</a>
-
-<a href="https://www.linkedin.com/in/lidar-ben-dor-199575236/">
-  <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
-</a>
 
 
 
