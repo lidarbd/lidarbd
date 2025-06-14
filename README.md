@@ -1,10 +1,10 @@
 ## Hi, I'm Lidar Ben-Dor 👋
 
-🎓 B.Sc. in Computer Science  \
+🎓 B.Sc. Computer Science
 
-💡 Passionate about turning ideas into real products - from C/C++ logic to full-stack apps with Python, TypeScript & .NET.  
-🚀 Fast learner with strong problem-solving skills and a hands-on mindset.  
-🤝 Team player with excellent communication, adaptability, and a strong work ethic.
+Passionate about turning ideas into real products - from C/C++ logic to full-stack apps with Python, TypeScript & .NET.  
+Fast learner with strong problem-solving skills and a hands-on mindset.  
+Team player with excellent communication, adaptability, and a strong work ethic.
 
 ## 🧠 Programming languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
