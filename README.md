@@ -25,9 +25,6 @@ I love building things - from efficient C/C++ logic to full-stack applications i
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lidar-ben-dor-199575236/)  
 📧 lidar210599@gmail.com
 
-## 📈 GitHub Stats
-
-![Lidar's GitHub stats](https://github-readme-stats.vercel.app/api?username=lidar-ben-dor&show_icons=true&theme=tokyonight)
 
 
 <!--
