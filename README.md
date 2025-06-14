@@ -1,6 +1,6 @@
 ## Hi, I'm Lidar Ben-Dor 👋
 
-🎓 B.Sc. Computer Science
+<h3 align="center"><i>B.Sc. Computer Science</i></h3>
 
 Passionate about turning ideas into real products - from C/C++ logic to full-stack apps with Python, TypeScript & .NET.  
 Fast learner with strong problem-solving skills and a hands-on mindset.  
@@ -25,8 +25,17 @@ Team player with excellent communication, adaptability, and a strong work ethic.
 
 ## 📫 Contact Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lidar-ben-dor-199575236/)  
-📧 lidar210599@gmail.com
+<a href="mailto:lidar210599@gmail.com">
+  <img src="https://img.icons8.com/fluency/48/gmail-new.png" alt="Gmail"/>
+</a>
+
+<a href="https://github.com/lidar-ben-dor">
+  <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lidar-ben-dor-199575236/">
+  <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
+</a>
 
 
 
